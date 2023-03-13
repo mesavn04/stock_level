@@ -1,5 +1,6 @@
 # stock_level
-check stock level
+check stock level.
+
 All input data must be csv files.
 
 1. Handle procduct sale detail
